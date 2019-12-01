@@ -1,0 +1,12 @@
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.csprojAssemblyReference.cache
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.AssemblyInfoInputs.cache
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.AssemblyInfo.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.dll
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.pdb
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.deps.json
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.dll
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.pdb
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\XamlC.stamp

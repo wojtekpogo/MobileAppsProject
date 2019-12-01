@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProjectApp"
+             x:Class="ProjectApp.MainPage">
+
+    <AbsoluteLayout BackgroundColor="DarkGray">
+
+        <Label x:Name="lbl" Text=" " FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.1,400,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+
+
+        <Entry x:Name="entry" BackgroundColor="White"
+               AbsoluteLayout.LayoutBounds="0.5,0.3,400,100" AbsoluteLayout.LayoutFlags="PositionProportional"></Entry>
+
+
+        <Label x:Name="score" Text="YourScore" FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.5,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+        <Button Text="New Game" BackgroundColor="Silver" TextColor="white"
+                AbsoluteLayout.LayoutBounds="0,1,1,50" AbsoluteLayout.LayoutFlags="PositionProportional, WidthProportional" />
+
+        
+
+
+
+    </AbsoluteLayout>
+
+</ContentPage>
