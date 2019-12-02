@@ -4,20 +4,25 @@
              xmlns:local="clr-namespace:ProjectApp"
              x:Class="ProjectApp.MainPage">
 
-    <AbsoluteLayout BackgroundColor="DarkGray">
+    <AbsoluteLayout BackgroundColor="Black">
 
+        <BoxView Color="White" CornerRadius="20" AbsoluteLayout.LayoutBounds="0.5,0.1,450,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Label x:Name="lbl" Text=" " FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.1,400,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
 
-
+        <BoxView Color="White" CornerRadius="20" AbsoluteLayout.LayoutBounds="0.5,0.3,350,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Entry x:Name="entry" BackgroundColor="White"
-               AbsoluteLayout.LayoutBounds="0.5,0.3,400,100" AbsoluteLayout.LayoutFlags="PositionProportional"></Entry>
+               AbsoluteLayout.LayoutBounds="0.5,0.3,300,100" AbsoluteLayout.LayoutFlags="PositionProportional"></Entry>
+
+        <BoxView Color="White" CornerRadius="20" AbsoluteLayout.LayoutBounds="0.5,0.6,350,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Label x:Name="score" Text=" " FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.6,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
 
 
-        <Label x:Name="score" Text="YourScore" FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.5,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
-        <Button Text="New Game" BackgroundColor="Silver" TextColor="white"
+        <Label x:Name="time" FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.8,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+
+
+
+        <Button x:Name="btn" Text="New Game" BackgroundColor="Silver" TextColor="white" Clicked="Btn_Clicked"
                 AbsoluteLayout.LayoutBounds="0,1,1,50" AbsoluteLayout.LayoutFlags="PositionProportional, WidthProportional" />
-
-        
 
 
 
